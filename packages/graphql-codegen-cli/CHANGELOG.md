@@ -1,5 +1,11 @@
 # @graphql-codegen/cli
 
+## 2.16.5
+
+### Patch Changes
+
+- [#8808](https://github.com/dotansimha/graphql-code-generator/pull/8808) [`884d25c4e`](https://github.com/dotansimha/graphql-code-generator/commit/884d25c4edb099a46bffb23ffd935abec7d14f80) Thanks [@rwu823](https://github.com/rwu823)! - fix: `gqlMagicComment` type
+
 ## 2.16.4
 
 ### Patch Changes
